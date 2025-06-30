@@ -148,7 +148,6 @@ python run_quick_eval.py
 |--------|--------|-------------|
 | **Workflow Success Rate** | 95-100% | Validates system robustness |
 | **Task Completion Speedup** | 16.4% faster | Significant productivity gain |
-| **Quality Improvement** | +0.37 std dev | Measurable quality enhancement |
 | **Cost Efficiency** | 10x cheaper (mini vs premium) | Democratizes access |
 
 ### Agent Performance Analysis
