@@ -1430,10 +1430,10 @@ def collect_workflow_outputs() -> Dict[str, any]:
     # Updated output file mapping to match evaluators
     output_files = {
         "research_brief": "output/01_research_brief.md",
-        "concepts": "output/02_idea_concepts.md",          # Note: changed from innovation_concepts
+        "concepts": "output/02_idea_concepts.md",          
         "selected_concept": "output/03_selected_concept.md",
         "specifications": "output/04_technical_specifications.md",
-        "validation_plan": "output/05_testing_plan.md",    # Note: changed from test_validation_plan
+        "validation_plan": "output/05_testing_plan.md",    
         "visualization": "output/06_concept_visualization.png",
         "final_report": "output/07_comprehensive_report.pdf"
     }
