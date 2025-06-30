@@ -1,0 +1,14 @@
+langgraph>=0.4.8
+langchain>=0.3.0
+langchain-openai
+langchain-anthropic
+langsmith
+tavily-python
+arxiv
+reportlab
+matplotlib
+rich
+python-dotenv
+openevals
+agentevals
+openevals
