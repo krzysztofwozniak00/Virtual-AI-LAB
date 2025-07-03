@@ -12,15 +12,15 @@
 
 ## 🎓 Academic Overview
 
-This repository contains the complete implementation of my master's thesis research investigating how Large Language Model (LLM) agents can serve as research assistants in complex R&D workflows. The project demonstrates a novel multi-agent system that automates comprehensive research and development processes while maintaining strategic human oversight.
+This repository contains the complete implementation of my master's thesis research investigating how Large Language Model (LLM) agents can serve as research assistants in complex R&D workflows. The project demonstrates a Virtual AI Laboratory system that automates comprehensive research and development processes while maintaining strategic human oversight.
 
 ### Research Questions Addressed
 
-1. **RQ1: Modular Multi-Agent Architecture** - How can specialized LLM agents be orchestrated using LangGraph to support complex R&D workflows?
+1. **RQ1: Modular Multi-Agent Architecture** - How can a modular multi-agent system architecture, leveraging LangGraph orchestration and domain-specialized LLM agents, be designed and implemented to support complex R&D workflows with maintainable, scalable, and extensible components?
 
-2. **RQ2: Multi-Agent Evaluation Methodology** - How can complex multi-agent systems be systematically evaluated across individual agent performance and end-to-end quality?
+2. **RQ2: Multi-Agent Evaluation Methodology** - How can complex multi-agent AI systems be systematically evaluated across individual agent performance, workflow integration, end-to-end quality, and what novel evaluation frameworks are required to assess such systems effectively?
 
-3. **RQ3: Human-AI Collaboration Integration** - What is the optimal balance between AI automation and human oversight in multi-agent R&D workflows?
+3. **RQ3: Human-AI Collaboration Integration** - What is the optimal balance between AI automation and human oversight in multi-agent R\&D workflows, and how does strategic human intervention at critical decision points affect overall output quality and process efficiency?
 
 ### Key Research Contributions
 
@@ -32,7 +32,7 @@ This repository contains the complete implementation of my master's thesis resea
 
 The **Agent Laboratory** implements a sophisticated graph-based multi-agent architecture with seven specialized agents:
 
-![alt text](output/workflow_graph.png)
+![alt text](output/Mermaid_flowchart.png)
 
 ### Agent Specializations
 
